@@ -6,11 +6,10 @@ Front-End Developer
 
 Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi sürekli geliştiriyorum.
 
-* 🌍  I'm based in Ankara
+* 🌍  I'm based in Turkey/Ankara
 * 🖥️  See my portfolio at [My Personal Web Site](http://turgutsafakozcan.ga)
 * ✉️  You can contact me at [safakozcansw@gmail.com](mailto:safakozcansw@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://yemekprojesi.com)
-* 🧠  I'm learning React.JS
+* 🚀  I'm currently working on [MyApp](http://turgutsafakozcan.ga)
 
 ### Skills
 
@@ -34,7 +33,7 @@ Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/safakozcanSW" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/safakozcan06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/turgut-safak-ozcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fenerlisirinn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/safakozcanSW" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/safakozcan06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/turgut-safak-ozcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
