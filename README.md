@@ -12,7 +12,9 @@ Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi 
 * 🚀  I'm currently working on :
   
   * [React Market Project](https://reactmarketproject.netlify.app/)
+  * [Company Web Site](https://companyprojects.netlify.app)
   * [Rakibinden.com](https://rakibinden.com)
+  
 
 ### Skills
 
