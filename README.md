@@ -7,9 +7,12 @@ Front-End Developer
 Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi sürekli geliştiriyorum.
 
 * 🌍  I'm based in Turkey/Ankara
-* 🖥️  See my portfolio at [My Personal Web Site](http://turgutsafakozcan.ga)
+* 🖥️  My portfolio site will be uploaded later
 * ✉️  You can contact me at [safakozcansw@gmail.com](mailto:safakozcansw@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://turgutsafakozcan.ga)
+* 🚀  I'm currently working on :
+  
+  * [React Market Project](https://reactmarketproject.netlify.app/)
+  * [Rakibinden.com](https://rakibinden.com)
 
 ### Skills
 
