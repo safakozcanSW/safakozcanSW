@@ -7,9 +7,9 @@ Front-End Developer
 Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi sürekli geliştiriyorum.
 
 * 🌍  I'm based in Turkey/Ankara
-* 🖥️  My portfolio site will be uploaded later
 * ✉️  You can contact me at [safakozcansw@gmail.com](mailto:safakozcansw@gmail.com)
-* 🚀  I'm currently working on :
+* 🖥️  My portfolio site will be uploaded later. For now, you can find the project links below
+* 🚀  My Project Links :
   
   * [React Market Project](https://reactmarketproject.netlify.app/)
   * [Company Web Site](https://companyprojects.netlify.app)
