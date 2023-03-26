@@ -12,7 +12,6 @@ Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi 
 * 🚀  My Project Links :
   
   * [Market Project(React.js)](https://reactmarketproject.netlify.app/)
-  * [Company Web Site](https://companyprojects.netlify.app)
   * [Lawyer Web Site(Next.js)](https://pelin.vercel.app)
 ### Skills
 
