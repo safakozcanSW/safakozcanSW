@@ -13,7 +13,7 @@ Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi 
   
   * [React Market Project](https://reactmarketproject.netlify.app/)
   * [Company Web Site](https://companyprojects.netlify.app)
-  * [Lawyer Web(Next.js) Site](https://pelin.vercel.app)
+  * [Lawyer Web Site(Next.js)](https://pelin.vercel.app)
 ### Skills
 
 <p align="left">
