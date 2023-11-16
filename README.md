@@ -4,7 +4,7 @@ Hi 👋 My name is Turgut Şafak Özcan
 Front-End Developer | React.js
 -------------------
 
-Sürekli gelişen teknolojiye ayak uydurarak hem UI hem de UX alanında kendimi sürekli geliştiriyorum.
+I constantly improve myself in both UI and UX by keeping up with the ever-developing technology.
 
 * 🌍  I'm based in Turkey/Ankara
 * ✉️  You can contact me at [safakozcansw@gmail.com](mailto:safakozcansw@gmail.com)
