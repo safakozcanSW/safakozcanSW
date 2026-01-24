@@ -1,7 +1,7 @@
 Hi 👋 My name is Turgut Şafak Özcan
 ===================================
 
-Front-End | React Developer
+Software Developer
 -------------------
 
 I constantly improve myself in both UI and UX by keeping up with the ever-developing technology.
