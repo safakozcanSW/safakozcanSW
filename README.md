@@ -1,48 +1,128 @@
-Hi 👋 My name is Turgut Şafak Özcan
-===================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=200&section=header&text=Turgut%20Şafak%20Özcan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-Software Developer
--------------------
+  <h3>🚀 Full Stack Developer | UI & UX Enthusiast</h3>
+  <p align="center">
+    <i>Building scalable web architectures, modern e-commerce platforms, and intuitive user experiences.</i>
+  </p>
 
-I constantly improve myself in both UI and UX by keeping up with the ever-developing technology.
+  <p align="center">
+    📍 Ankara, Turkey &nbsp;|&nbsp; 
+    ✉️ <a href="mailto:safakozcansw@gmail.com">safakozcansw@gmail.com</a> &nbsp;|&nbsp;
+    💼 <a href="https://www.linkedin.com/in/turgut-safak-ozcan">LinkedIn</a> &nbsp;|&nbsp;
+    🌐 <a href="https://rslastik.com">Featured Platform</a>
+  </p>
 
-* 🌍  I'm based in Turkey/Ankara
-* ✉️  You can contact me at [safakozcansw@gmail.com](mailto:safakozcansw@gmail.com)
-* 🖥️  My portfolio site will be uploaded later. For now, you can find the project links below
-* 🚀  My Project Links :
-  
-  * [Market Project(React.js)](https://reactmarketproject.netlify.app/)
-  * [Lawyer Web Site(Next.js)](https://emily-brown.vercel.app/)
-### Skills
+  <p align="center">
+    <a href="https://github.com/safakozcanSW"><img src="https://img.shields.io/github/followers/safakozcanSW?style=for-the-badge&logo=github&color=0891b2" alt="Followers"></a>
+    <a href="https://www.linkedin.com/in/turgut-safak-ozcan"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="mailto:safakozcansw@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+  </p>
+</div>
 
-<p align="left" class="display:'flex', gap: '0.5rem'">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<br />
 
+## 👨‍💻 About Me
 
-### Socials
+As a **Full Stack Developer**, I specialize in building high-performance, scalable, and responsive applications using modern web technologies.
 
-<p align="left"> <a href="https://www.github.com/safakozcanSW" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/safakozcan06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/turgut-safak-ozcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 🔭 **Currently Working On:** Developing Clinic Management Systems and E-Commerce infrastructures powered by Node.js, Next.js, and PostgreSQL architectures.
+- ⚡ **Technical Approach:** Applying Clean Code, N-Tier Architecture, MVVM, and Pixel-Perfect UI principles end-to-end.
+- 🖥️ **Server & Infrastructure:** Experienced in Linux VPS/VDS administration, Nginx reverse proxy configurations, domain setup, and database optimizations.
+- 📈 **Continuous Learning:** Expanding expertise in TypeScript and Docker ecosystems.
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack & Skills
 
-<a href="http://www.github.com/safakozcanSW"><img src="https://github-readme-stats.vercel.app/api?username=safakozcanSW&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="safakozcanSW's GitHub stats" /></a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & UI/UX</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="JS" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="28" height="28" alt="React" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="28" height="28" alt="Next.js" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="28" height="28" alt="Redux" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="28" height="28" alt="HTML5" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="28" height="28" alt="CSS3" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="28" height="28" alt="Sass" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="28" height="28" alt="Tailwind" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="28" height="28" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="28" height="28" alt="Figma" />
+      </p>
+      <ul>
+        <li><b>Frameworks:</b> Next.js, React.js (RTK, Context API)</li>
+        <li><b>Styling:</b> Tailwind CSS, MUI, Sass, Bootstrap</li>
+        <li><b>Design to Code:</b> Figma to Pixel-Perfect Responsive UI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend, Database & DevOps</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="28" height="28" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="28" height="28" alt="C#" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="28" height="28" alt=".NET" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="28" height="28" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="28" height="28" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="28" height="28" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="28" height="28" alt="Linux" />
+      </p>
+      <ul>
+        <li><b>Runtimes & Architectures:</b> Node.js, Express.js, ASP.NET Core, REST APIs</li>
+        <li><b>ORM & Databases:</b> EF Core, Prisma | PostgreSQL, MSSQL, MongoDB</li>
+        <li><b>System & DevOps:</b> Linux VPS/VDS, Nginx, Docker, Git/GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/safakozcanSW"><img src="https://github-readme-streak-stats.herokuapp.com/?user=safakozcanSW&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/safakozcanSW"><img src="https://activity-graph.herokuapp.com/graph?username=safakozcanSW&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack / Link |
+| :--- | :--- | :--- |
+| **RS Lastik E-Commerce** | A full-fledged e-commerce ecosystem featuring multi-vendor integrations, dynamic pricing algorithms, and advanced SEO strategies. | Next.js, Node.js, PostgreSQL <br /> 🔗 [rslastik.com](https://rslastik.com) |
+| **Dr2Connect Platform** | AI-assisted digital healthcare platform connecting patients, doctors, and clinics. | Next.js, React, Node.js <br /> 🔗 [dr2connect.com](https://dr2connect.com/en) |
+| **Dr2Connect Clinic CMS** | Administrative clinic management dashboard infrastructure developed for healthcare facilities. | React, REST API, MSSQL <br /> 🔗 [uzman.dr2connect.com](https://uzman.dr2connect.com/tr/giris-yap) |
+| **Next.js Lawyer Platform** | Modern and SEO-focused digital platform tailored for legal professionals and agencies. | Next.js, MongoDB <br /> 🔗 [emily-brown.vercel.app](https://emily-brown.vercel.app/) |
+| **Elevator Maintenance Tracker** | Desktop automation software engineered with N-Tier Architecture, MVVM, and cloud integration. | C#, WPF, EF Core, MSSQL |
+
+---
+
+## 💼 Professional Experience
+
+- 🏢 **Sirius Health & Software A.Ş.** | *Full Stack Developer* `(12.2024 - Present)`
+  - Developing clinic management systems and managing corporate digital products using Node.js, Express.js, PostgreSQL, React, and Next.js.
+- 🏗️ **KOLIN Construction Inc.** | *Digital Archive Specialist* `(12.2023 - 12.2024)`
+  - Engineered an E-Archive web application using Node.js, Express.js, React, and MSSQL to digitize company archives.
+- ⚙️ **Amaç Software** | *Software Developer* `(07.2022 - 01.2023)`
+  - Developed Elevator Maintenance Tracking and Secure School Automation systems using C#, ASP.NET Core, EF Core, WPF, and MSSQL.
+- 💻 **Freelance / Remote** | *Full Stack Developer* `(08.2017 - 07.2021)`
+  - Delivered custom web applications and authored web themes published on ThemeForest.
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=safakozcanSW&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=safakozcanSW&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=safakozcanSW&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with 💻 by Turgut Şafak Özcan</sub>
+</div>
