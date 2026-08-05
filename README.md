@@ -1,7 +1,7 @@
 <div align="center">
   <h3>🚀 Full Stack Developer</h3>
   <p align="center">
-    <i>Building scalable web architectures, modern e-commerce platforms, and intuitive user experiences.</i>
+    <i>Architecting high-performance enterprise systems, scalable web applications, and end-to-end digital solutions.</i>
   </p>
 
   <p align="center">
