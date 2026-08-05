@@ -81,10 +81,11 @@ As a **Full Stack Developer**, I specialize in building high-performance, scalab
 
 | Project | Description | Tech Stack / Link |
 | :--- | :--- | :--- |
-| **RS Lastik E-Commerce** | A full-fledged e-commerce ecosystem featuring multi-vendor integrations, dynamic pricing algorithms, and advanced SEO strategies. | Next.js, Node.js, PostgreSQL <br /> 🔗 [rslastik.com](https://rslastik.com) |
 | **Dr2Connect Platform** | AI-assisted digital healthcare platform connecting patients, doctors, and clinics. | Next.js, React, Node.js <br /> 🔗 [dr2connect.com](https://dr2connect.com/en) |
 | **Dr2Connect Clinic CMS** | Administrative clinic management dashboard infrastructure developed for healthcare facilities. | React, REST API, MSSQL <br /> 🔗 [uzman.dr2connect.com](https://uzman.dr2connect.com/tr/giris-yap) |
+| **RS Lastik E-Commerce** | A full-fledged e-commerce ecosystem featuring multi-vendor integrations, dynamic pricing algorithms, and advanced SEO strategies. | Next.js, Node.js, PostgreSQL <br /> 🔗 [rslastik.com](https://rslastik.com) |
 | **Next.js Lawyer Platform** | Modern and SEO-focused digital platform tailored for legal professionals and agencies. | Next.js, MongoDB <br /> 🔗 [emily-brown.vercel.app](https://emily-brown.vercel.app/) |
+| **[Market Project(React.js)]** (https://reactmarketproject.netlify.app/)
 | **Elevator Maintenance Tracker** | Desktop automation software engineered with N-Tier Architecture, MVVM, and cloud integration. | C#, WPF, EF Core, MSSQL |
 
 ---
@@ -99,20 +100,7 @@ As a **Full Stack Developer**, I specialize in building high-performance, scalab
   - Developed Elevator Maintenance Tracking and Secure School Automation systems using C#, ASP.NET Core, EF Core, WPF, and MSSQL.
 - 💻 **Freelance / Remote** | *Full Stack Developer* `(08.2017 - 07.2021)`
   - Delivered custom web applications and authored web themes published on ThemeForest.
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safakozcanSW&show_icons=true&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="Safak's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safakozcanSW&theme=dark&background=1c1917&hide_border=true&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Safak's GitHub Streak" width="49%" />
-  
-  <br /><br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=safakozcanSW&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Safak's Trophies" width="100%" />
-</div>
-
+ 
 ---
 
 <div align="center">
