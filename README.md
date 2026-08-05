@@ -105,18 +105,12 @@ As a **Full Stack Developer**, I specialize in building high-performance, scalab
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=safakozcanSW&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=safakozcanSW&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=safakozcanSW&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safakozcanSW&show_icons=true&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="Safak's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safakozcanSW&theme=dark&background=1c1917&hide_border=true&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Safak's GitHub Streak" width="49%" />
+  
+  <br /><br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=safakozcanSW&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Safak's Trophies" width="100%" />
 </div>
 
 ---
