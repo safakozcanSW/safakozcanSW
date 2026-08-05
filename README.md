@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=200&section=header&text=Turgut%20Şafak%20Özcan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
   <h3>🚀 Full Stack Developer | UI & UX Enthusiast</h3>
   <p align="center">
     <i>Building scalable web architectures, modern e-commerce platforms, and intuitive user experiences.</i>
