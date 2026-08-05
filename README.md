@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🚀 Full Stack Developer | UI & UX Enthusiast</h3>
+  <h3>🚀 Full Stack Developer</h3>
   <p align="center">
     <i>Building scalable web architectures, modern e-commerce platforms, and intuitive user experiences.</i>
   </p>
